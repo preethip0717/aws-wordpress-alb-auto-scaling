@@ -57,4 +57,18 @@ The WordPress database is stored locally on each instance. The instances do not 
 Completed as a hands-on AWS learning project.
 
 
+## Project Screenshots
+
+### WordPress Website
+
+![WordPress website](screenshots/wordpress-website.png)
+
+### Target Group Health
+
+![Target group showing healthy instances](screenshots/target-group-health.png)
+
+### Auto Scaling Group
+
+![Auto Scaling Group with two instances](screenshots/auto-scaling-group.png)
+
 
